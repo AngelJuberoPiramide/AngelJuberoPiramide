@@ -2,9 +2,7 @@
 <!--                     BANNER                       -->
 <!-- ═══════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:1B0B3A,100:00F0FF&height=220&section=header&text=ANGEL&fontSize=70&fontColor=00F0FF&fontAlignY=40&animation=twinkling" />
-</p>
+
 
 
 <!-- ═══════════════════════════════════════════════ -->
@@ -34,14 +32,6 @@
 <!-- ═══════════════════════════════════════════════ -->
 
 <p align="center">
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AngelJuberoPiramide/AngelJuberoPiramide/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AngelJuberoPiramide/AngelJuberoPiramide/output/github-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AngelJuberoPiramide/AngelJuberoPiramide/output/github-snake.svg">
-  </picture>
-</p>
 
 ```text
 ╭────────────────────────────────────────────────────────╮
